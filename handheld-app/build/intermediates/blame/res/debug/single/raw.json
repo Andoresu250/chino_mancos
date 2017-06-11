@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\raw\\base.dat",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\raw\\base.dat"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\raw\\rain2.mp3",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\raw\\rain2.mp3"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\raw\\rain1.mp3",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\raw\\rain1.mp3"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\raw\\ok.wav",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\raw\\ok.wav"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\raw\\barcode.mp3",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\raw\\barcode.mp3"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\raw\\license.lic",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\raw\\license.lic"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\raw\\sfz.mp3",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\raw\\sfz.mp3"
+    }
+]

@@ -1,0 +1,468 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:2:1-234:12
+	package
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:9:5-84
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:9:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.CAMERA
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:20:5-21:23
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:20:22-62
+uses-feature#android.hardware.camera
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:24:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:26:5-27:23
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:26:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:28:5-29:23
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:28:22-63
+uses-permission#android.permission.NFC
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:30:5-62
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:30:22-59
+uses-feature#Android.hardware.nfc
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:32:5-34:35
+	android:required
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:34:9-32
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:33:9-44
+application
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:36:5-225:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Andoresu\.android\build-cache\f657520e02dd23b436bb9667f38b212e5c7e00cb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andoresu\.android\build-cache\da88d9289fa9493b604b4ff32503ccafa629b944\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Andoresu\.android\build-cache\36f916e3f553857a5deaec7f13c9677aee5c891d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Andoresu\.android\build-cache\000cf16a2a6908944a869c5e7d2c1c54c5644ac4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Andoresu\.android\build-cache\003735099b72b90a78846a62efd39b1f9e25fdea\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Andoresu\.android\build-cache\886759e9c3ddbaeafaf02a6c2af1ec9e56218fd1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Andoresu\.android\build-cache\c2ca43d05896b9ab8dd29a4c285c9bbfbca38e08\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Andoresu\.android\build-cache\a7dd4b865a8a6088b37da57542f65c2ef588478d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Andoresu\.android\build-cache\2bd4e8f0f0aa1da27d283618db15af853e8130ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Andoresu\.android\build-cache\1b6fe45ce3e7660b5e250a31958c4245ffa8536e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Andoresu\.android\build-cache\806a6c3ee8bb0f815619830c95c9c67bc6c53182\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:39:9-41
+	android:icon
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:38:9-38
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:37:9-38
+activity#com.authentication.activity.MainActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:40:9-48:20
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:42:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:41:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:46:27-74
+activity#com.authentication.activity.SFZActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:49:9-55:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:52:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:51:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:54:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:50:13-40
+activity#com.authentication.activity.LocationActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:56:9-61:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:58:13-45
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:57:13-45
+activity#com.authentication.activity.FingerprintActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:62:9-68:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:65:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:64:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:67:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:63:13-48
+activity#com.authentication.activity.RFIDActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:69:9-75:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:72:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:71:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:74:13-66
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:70:13-41
+activity#com.authentication.activity.ReadCardActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:76:9-82:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:79:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:78:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:81:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:77:13-45
+activity#com.authentication.activity.TypeBActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:83:9-89:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:86:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:85:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:88:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:84:13-42
+activity#com.authentication.activity.BarCodeActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:90:9-96:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:93:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:92:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:95:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:91:13-44
+activity#com.authentication.activity.BarCodeSettingActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:97:9-103:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:100:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:99:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:102:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:98:13-51
+activity#com.authentication.activity.RFID15693Activity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:104:9-110:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:107:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:106:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:109:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:105:13-46
+activity#com.authentication.activity.CPUActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:111:9-117:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:115:13-50
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:114:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:113:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:116:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:112:13-40
+activity#com.authentication.activity.HXUHFActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:118:9-123:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:121:13-50
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:120:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:119:13-42
+activity#com.authentication.activity.HKUHFActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:124:9-129:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:127:13-50
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:126:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:128:13-44
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:125:13-42
+activity#com.authentication.activity.SmartCardActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:130:9-135:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:133:13-49
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:132:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:134:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:131:13-46
+activity#com.authentication.activity.SoftDecodingActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:136:9-141:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:139:13-49
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:138:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:140:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:137:13-49
+activity#com.authentication.activity.ICCardActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:142:9-146:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:145:13-49
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:144:13-63
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:143:13-43
+activity#com.zchr.pbocemvkerneldemo.DebitCreditTransReadCardActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:147:9-152:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:150:13-49
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:149:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:151:13-44
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:148:13-87
+activity#com.authentication.activity.SDLguiActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:153:9-157:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:156:13-49
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:155:13-63
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:154:13-43
+activity#com.authentication.activity.PsamActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:158:9-162:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:160:13-56
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:159:13-41
+activity#com.authentication.activity.HXUHFActivity640
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:163:9-168:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:166:13-50
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:165:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:167:13-44
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:164:13-45
+activity#com.authentication.activity.SoftDecodingsActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:169:9-173:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:172:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:171:13-66
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:170:13-50
+activity#com.authentication.activity.PrintActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:174:9-179:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:177:13-50
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:176:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:178:13-44
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:175:13-42
+activity#com.authentication.activity.QRScannerActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:180:9-186:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:184:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:183:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:182:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:185:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:181:13-46
+activity#com.authentication.activity.FBIFingerPrintActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:187:9-196:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:190:13-49
+	android:label
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:189:13-45
+	android:configChanges
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:188:13-63
+	android:theme
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:191:13-60
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:187:19-57
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:192:4-194:20
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:193:5-78
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:193:13-75
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:195:4-118
+	android:resource
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:195:78-115
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:195:15-77
+activity#com.authentication.activity.FPDisplayActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:197:9-54
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:197:19-52
+activity#com.authentication.activity.NFCActivity
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:198:9-224:20
+	android:screenOrientation
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:202:13-49
+	android:launchMode
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:201:13-48
+	android:alwaysRetainTaskState
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:200:13-49
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:199:13-40
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.TECH_DISCOVERED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:203:13-207:29
+action#android.nfc.action.TECH_DISCOVERED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:204:17-77
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:204:25-74
+category#android.intent.category.DEFAULT
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:206:17-76
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:206:27-73
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.TAG_DISCOVERED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:208:13-212:29
+action#android.nfc.action.TAG_DISCOVERED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:209:17-76
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:209:25-73
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:213:13-219:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:214:17-77
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:214:25-74
+data
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:218:17-55
+	android:mimeType
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:218:23-52
+meta-data#android.nfc.action.TECH_DISCOVERED
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:221:13-223:59
+	android:resource
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:223:17-56
+	android:name
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:222:17-66
+supports-screens
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:227:5-230:40
+	android:largeScreens
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:229:9-36
+	android:normalScreens
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:230:9-37
+	android:anyDensity
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:228:9-34
+uses-sdk
+ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:232:5-44
+MERGED from [com.android.support:design:25.3.1] C:\Users\Andoresu\.android\build-cache\f657520e02dd23b436bb9667f38b212e5c7e00cb\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andoresu\.android\build-cache\da88d9289fa9493b604b4ff32503ccafa629b944\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Andoresu\.android\build-cache\36f916e3f553857a5deaec7f13c9677aee5c891d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Andoresu\.android\build-cache\000cf16a2a6908944a869c5e7d2c1c54c5644ac4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Andoresu\.android\build-cache\974b19ac376b914de64e68b4887e82e00f6dc17e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Andoresu\.android\build-cache\003735099b72b90a78846a62efd39b1f9e25fdea\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Andoresu\.android\build-cache\886759e9c3ddbaeafaf02a6c2af1ec9e56218fd1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Andoresu\.android\build-cache\c2ca43d05896b9ab8dd29a4c285c9bbfbca38e08\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Andoresu\.android\build-cache\a7dd4b865a8a6088b37da57542f65c2ef588478d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Andoresu\.android\build-cache\2bd4e8f0f0aa1da27d283618db15af853e8130ce\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Andoresu\.android\build-cache\1b6fe45ce3e7660b5e250a31958c4245ffa8536e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Andoresu\.android\build-cache\806a6c3ee8bb0f815619830c95c9c67bc6c53182\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Andoresu\.android\build-cache\f657520e02dd23b436bb9667f38b212e5c7e00cb\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml:232:15-41
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+		INJECTED from G:\Proyectos\HandheldApp\handheld-app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Andoresu\.android\build-cache\f657520e02dd23b436bb9667f38b212e5c7e00cb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Andoresu\.android\build-cache\da88d9289fa9493b604b4ff32503ccafa629b944\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Andoresu\.android\build-cache\36f916e3f553857a5deaec7f13c9677aee5c891d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Andoresu\.android\build-cache\000cf16a2a6908944a869c5e7d2c1c54c5644ac4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Andoresu\.android\build-cache\974b19ac376b914de64e68b4887e82e00f6dc17e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Andoresu\.android\build-cache\003735099b72b90a78846a62efd39b1f9e25fdea\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Andoresu\.android\build-cache\886759e9c3ddbaeafaf02a6c2af1ec9e56218fd1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Andoresu\.android\build-cache\c2ca43d05896b9ab8dd29a4c285c9bbfbca38e08\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Andoresu\.android\build-cache\a7dd4b865a8a6088b37da57542f65c2ef588478d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Andoresu\.android\build-cache\2bd4e8f0f0aa1da27d283618db15af853e8130ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Andoresu\.android\build-cache\1b6fe45ce3e7660b5e250a31958c4245ffa8536e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Andoresu\.android\build-cache\806a6c3ee8bb0f815619830c95c9c67bc6c53182\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Andoresu\.android\build-cache\f657520e02dd23b436bb9667f38b212e5c7e00cb\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Andoresu\.android\build-cache\f657520e02dd23b436bb9667f38b212e5c7e00cb\output\AndroidManifest.xml:26:9-47

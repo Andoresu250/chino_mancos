@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Proyectos\HandheldApp\handheld-app\libs\androidtfm.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9bad5a24eadf5eca301e38a33201666fa3172f73">
+        <dex dex="G:\Proyectos\HandheldApp\handheld-app\build\intermediates\pre-dexed\debug\androidtfm_2fa0fda7566b3e6dd03cf7077b4670753f5e66c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Proyectos\HandheldApp\handheld-app\libs\idcardapi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b249ef765e0450c177cd41b2e2a384e301cc5fc9">
+        <dex dex="G:\Proyectos\HandheldApp\handheld-app\build\intermediates\pre-dexed\debug\idcardapi_0ff893e9efcc78474a9c5bd7a1f6081074e2b518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Proyectos\HandheldApp\handheld-app\libs\microlog4android-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dbfcfb407070fc33e60e26e45d059763afdaf94">
+        <dex dex="G:\Proyectos\HandheldApp\handheld-app\build\intermediates\pre-dexed\debug\microlog4android-1.0.0_9fb3e1c2eabe810a93362a51a28f95aa3fb9815e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Proyectos\HandheldApp\handheld-app\libs\litepal-1.3.2-src.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d28cde6c9ac98a559e183f8b56ea69902cdade14">
+        <dex dex="G:\Proyectos\HandheldApp\handheld-app\build\intermediates\pre-dexed\debug\litepal-1.3.2-src_79d300a204433055c57fa579f07a5e23c27d9f95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Proyectos\HandheldApp\handheld-app\libs\DecodeWlt.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08a75f3e9fd415101bfe5d7a77e644dec4fbed1d">
+        <dex dex="G:\Proyectos\HandheldApp\handheld-app\build\intermediates\pre-dexed\debug\DecodeWlt_d9e6ae02b142f69b0051850baf62a092fdb22eca.jar" />
+    </item>
+
+</items>

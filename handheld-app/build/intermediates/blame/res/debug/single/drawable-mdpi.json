@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fingerprint.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\fingerprint.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\m1.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\m1.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\ic.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\beidou.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\beidou.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rfid15693.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\rfid15693.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loop.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\loop.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\background.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hx.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\hx.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sfz.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\sfz.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_toggle_yes.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\btn_toggle_yes.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cpu.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\cpu.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\main_background.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\main_background.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sfz_bg.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\sfz_bg.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\barcode.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\barcode.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\hk.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\hk.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_toggle_no.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-mdpi\\btn_toggle_no.png"
+    }
+]

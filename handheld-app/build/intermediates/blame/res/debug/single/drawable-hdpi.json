@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\main_background.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\main_background.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\test.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\test.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_toggle_yes.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\btn_toggle_yes.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_cancel_pressed.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\btn_cancel_pressed.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\config.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\config.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_ok_normal.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\btn_ok_normal.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\platform_interface.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\platform_interface.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\screen_bk.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\screen_bk.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\param.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\param.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pboc_logo.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\pboc_logo.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_toggle_no.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\btn_toggle_no.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_cancel.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\btn_cancel.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_icon_click.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\back_icon_click.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_bombbox.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\bg_bombbox.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back_icon.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\back_icon.png"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_ok_pressed.png",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\drawable-hdpi\\btn_ok_pressed.png"
+    }
+]

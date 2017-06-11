@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HandheldApp.iml" filepath="$PROJECT_DIR$/HandheldApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handheld-app/handheld-app.iml" filepath="$PROJECT_DIR$/handheld-app/handheld-app.iml" />
+    </modules>
+  </component>
+</project>

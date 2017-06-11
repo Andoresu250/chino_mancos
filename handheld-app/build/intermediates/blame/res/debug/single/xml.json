@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "G:\\Proyectos\\HandheldApp\\handheld-app\\build\\intermediates\\res\\merged\\debug\\xml\\nfc_tech_filter.xml",
+        "source": "G:\\Proyectos\\HandheldApp\\handheld-app\\src\\main\\res\\xml\\nfc_tech_filter.xml"
+    }
+]
